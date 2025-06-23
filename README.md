@@ -7,4 +7,8 @@
 </a>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kiwisontoast/kiwisontoast/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kiwisontoast/kiwisontoast/blob/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/kiwisontoast/kiwisontoast/blob/output/snake.svg">
+</picture>
