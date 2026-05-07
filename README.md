@@ -13,7 +13,7 @@ My name is Dev, and I'm a uni student doing computer science. I am really intere
 ### Stats
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiwisontoast&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiwisontoast&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiwisontoast&theme=tokyonight" />
 </p>
 
