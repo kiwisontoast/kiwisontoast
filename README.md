@@ -13,8 +13,8 @@ My name is Dev, and I'm a uni student doing computer science. I am really intere
 ### Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/kiwisontoast/github-stats/master/generated/overview.svg" alt="kiwisontoast's GitHub overview" />
-  <img src="https://raw.githubusercontent.com/kiwisontoast/github-stats/master/generated/languages.svg" alt="kiwisontoast's most used languages" />
+  <img src="https://raw.githubusercontent.com/kiwisontoast/github-stats/generated/overview.svg" alt="kiwisontoast's GitHub overview" />
+  <img src="https://raw.githubusercontent.com/kiwisontoast/github-stats/generated/languages.svg" alt="kiwisontoast's most used languages" />
 </p>
 
 <br clear="both">
